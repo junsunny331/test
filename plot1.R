@@ -17,5 +17,3 @@ hist(subsetData$Global_active_power,
 )
 
 dev.off()
-
-plot(subsetData$Wkday,subsetData$Global_active_power)
